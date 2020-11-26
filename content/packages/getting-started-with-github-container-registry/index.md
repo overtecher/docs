@@ -13,3 +13,4 @@ versions:
 {% link_in_list /migrating-to-github-container-registry-for-docker-images %}
 
 For more information about configuring, deleting, pushing, or pulling container images, see "[Managing container images with {% data variables.product.prodname_github_container_registry %}](/packages/managing-container-images-with-github-container-registry)."
+<a href="https://overtecher.com/minecraft-circle-generator-tool-and-guide/">Minecraft Circle Generator</a>
